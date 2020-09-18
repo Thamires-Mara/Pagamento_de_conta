@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Pagamento de Conta</string>
+    <string name="valor_da_conta">Valor da Conta</string>
 </resources>
